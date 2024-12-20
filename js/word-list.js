@@ -108,7 +108,7 @@ const wordList = [
     hint: "Một hình thức múa cổ điển với những chuyển động chính xác và duyên dáng.",
   },
   {
-    word: "pheluthien",
+    word: "phihanhgia",
     hint: "Một người được huấn luyện để du hành và làm việc trong không gian.",
   },
   {
@@ -124,7 +124,7 @@ const wordList = [
     hint: "Hiện tượng quang học do ánh sáng bị phản xạ, khúc xạ, và phân tán.",
   },
   {
-    word: "vuutru",
+    word: "vutru",
     hint: "Tất cả vật chất, không gian và thời gian hiện hữu.",
   },
   {
@@ -176,7 +176,7 @@ const wordList = [
     hint: "Một khu vực màu mỡ trong sa mạc có nước.",
   },
   {
-    word: "anhnhiep",
+    word: "nhiepanh",
     hint: "Nghệ thuật, quá trình hoặc thực hành tạo ra hình ảnh bằng ánh sáng.",
   },
   {
@@ -196,7 +196,7 @@ const wordList = [
     hint: "Liên quan đến khu vực giữa chí tuyến Bắc và Nam.",
   },
   {
-    word: "biankhong",
+    word: "bian",
     hint: "Khó hoặc không thể hiểu, giải thích hoặc nhận dạng.",
   },
 ];
