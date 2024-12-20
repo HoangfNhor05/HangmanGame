@@ -71,7 +71,7 @@ body {
 }
 
 .game-box .guesses-text {
-    top: 25px;
+    margin-top: 25px;
     font-size: 1.2rem;
 }
 
